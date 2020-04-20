@@ -3,5 +3,4 @@
 ## Website Usage
 Vince'blog
 
-## About
-Powered by Utterances
+* Powered by Utterances *
