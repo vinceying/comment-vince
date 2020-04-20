@@ -1,2 +1,2 @@
 # Comment-Vince'blog
-Power by Utterances
+Powered by Utterances
