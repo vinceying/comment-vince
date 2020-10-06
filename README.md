@@ -1,6 +1,5 @@
 # Comment-Vince
 
 ## Website Usage
-Vince'blog-Comment
+Vince's blog Comments
 
-***Powered by Utterances***
